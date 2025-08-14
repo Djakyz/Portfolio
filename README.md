@@ -1,3 +1,4 @@
+
 # 💻 Olha Berketa — Frontend Developer Portfolio
 
 📍 Kyiv, Ukraine  
@@ -7,39 +8,20 @@
 ## 🚀 Tech Stack
 HTML5, CSS3, JavaScript (ES6+), TypeScript, React, Vite, Sass, Git, REST API, WordPress, Figma
 
----
-
 ## 📂 Projects
 
 ### 1️⃣ [Pixabay Image Search App](https://github.com/Djakyz/goit-js-hw-12)
 **Stack:** JavaScript, HTML, CSS, Axios, SimpleLightbox, Pixabay API  
-**Description:** Search images with pagination, “Load More” button, smooth scroll, and lightbox preview.  
-**Features:**  
-- API integration with Axios  
-- Responsive design  
-- Smooth animations
+![Pixabay Image Search App](./screenshots/pixabay-search.png)
 
----
-
-### 2️⃣ [Movie Search App](https://github.com/Djakyz/movie-search-react) *(example)*
+### 2️⃣ [Movie Search App](https://github.com/Djakyz/movie-search-react)
 **Stack:** React, TypeScript, Axios, TMDB API, CSS Modules  
-**Description:** Search movies with TMDB API, view detailed info in a modal.  
-
----
+![Movie Search App](./screenshots/movie-search.png)
 
 ### 3️⃣ [Responsive Landing Page](https://github.com/Djakyz/goit-markup-hw-08)
 **Stack:** HTML, Sass, Flexbox, CSS Grid, BEM  
-**Description:** Pixel-perfect responsive site based on Figma design.
-
----
+![Responsive Landing Page](./screenshots/landing-page.png)
 
 ### 4️⃣ [JavaScript Mini-Projects](https://github.com/Djakyz/goit-js-hw-10)
 **Stack:** JavaScript, REST API, HTML, CSS  
-**Description:** Country search, API fetch, and interactive UI components.
-
----
-
-## 🙋‍♀️ About Me
-Motivated Junior Frontend Developer with a background in WordPress and modern frontend tools. Passionate about building clean, responsive, and user-friendly web applications.
-
----
+![JavaScript Mini-Projects](./screenshots/js-mini-projects.png)
